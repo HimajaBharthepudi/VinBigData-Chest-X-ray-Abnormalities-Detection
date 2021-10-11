@@ -1,4 +1,4 @@
-# AML-Project
+# VinBigData-Chest-X-ray-Abnormalities-Detection
 
 In this project, we try to solve a problem of Kaggle competition
 https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection/overview
